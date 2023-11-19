@@ -1,0 +1,5 @@
+Le dashboard et l'API ont été déployés sur Heroku :
+- Nom du dashboard : dashboard-data-hm
+- Lien vers le dashboard : https://dashboard-data-hm-fc698027b974.herokuapp.com/
+- Nom de l'API : api-hm
+- Liens vers l'API qui prédit le score du client numéro 208550 : https://api-hm-8e0d0e66dd33.herokuapp.com/predict_proba/208550
